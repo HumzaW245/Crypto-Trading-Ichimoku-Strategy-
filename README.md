@@ -1,7 +1,7 @@
 # Crypto-Trading-Ichimoku-Strategy-
 A trading bot that scans USDT pairs on Binance and returns a list of coins meeting the strategy's conditions on a given time frame.
 
-v0.01
+v0.01 - Scroll to the end of the .pynb file for example results
 Currently this version uses ichimoku with the following conditions:
 1) Lagging span (Chikou) is above its cloud (Kumo)
 2) Current price close is above its cloud (Kumo)
